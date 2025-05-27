@@ -10,7 +10,7 @@
 
     - Bloqueo (opcional): También puedes agregar lógica para bloquear al contacto que envíe el mensaje sospechoso (comentado en el código).
   
-   4. Mejoras y Personalización
+4. Mejoras y Personalización
 
     - Patrones Avanzados: Puedes mejorar los patrones de phishing añadiendo más expresiones regulares para detectar contenido específico.
 
@@ -18,7 +18,7 @@
 
     - Detección de Imágenes: Si también quieres filtrar imágenes, puedes integrar algún servicio de análisis de imágenes o comprobar si contienen enlaces sospechosos.
   
-     5. Ejecución
+5. Ejecución
 
     - Para ejecutar el bot, solo tienes que correr el script:
   
