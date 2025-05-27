@@ -23,3 +23,5 @@
     - Para ejecutar el bot, solo tienes que correr el script:
   
    node index.js
+
+ - Asegúrate de escanear el código QR con WhatsApp Web para autenticar al bot.
